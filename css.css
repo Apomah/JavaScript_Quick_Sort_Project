@@ -1,0 +1,139 @@
+/*Entire page*/
+html{
+	background-color:black;
+}
+/*Sorting Options*/
+#dirdiv{
+	color:white;
+	background-color:black;
+	height:4%;
+	width:5%;
+	position:relative;
+	left:47.5%;
+	text-align:center;
+	line-height: 4%;
+	margin-top:1%;
+	border-radius:1em;
+}
+#dir{
+	color:white;
+	background-color:red;
+	border-radius:1em;
+	text-align: center;
+}
+/*Object Sorting Start*/
+#objectsort{
+	color:white;
+	background-color:red;
+	height:4%;
+	width:5%;
+	position:relative;
+	left:47.5%;
+	text-align:center;
+	line-height: 4%;
+	margin-top:1%;
+	border-radius:1em;
+}
+#object{
+	display: inline-block;
+  	vertical-align: middle;
+ 	line-height: normal;
+}
+/*Sorting Object*/
+#objdiv{
+	color:white;
+	background-color:black;
+	height:4%;
+	width:5%;
+	position:relative;
+	left:47.5%;
+	text-align:center;
+	line-height: 4%;
+	margin-top:1%;
+	border-radius:1em;
+}
+#obj{
+	color:white;
+	background-color:red;
+	border-radius:1em;
+	text-align: center;
+}
+/*Display paragraph*/
+#displaydiv{
+	position:relative;
+	width:40%;
+	left:30%;
+	text-align:center;
+}
+#display{
+	display: inline-block;
+  	vertical-align: middle;
+ 	line-height: normal;
+ 	color:white;
+}
+/*Input box*/
+#input{
+	position:relative;
+	width:40%;
+	left:30%;
+	text-align: center;
+}
+/*Divs and their text*/
+#titlediv{
+	position:relative;
+	top:2%;
+	width:40%;
+	left:30%;
+	text-align:center;
+}
+#title{
+	display: inline-block;
+  	vertical-align: middle;
+ 	line-height: normal;
+ 	color:white;
+}
+#namediv{
+	position:relative;
+	width:40%;
+	left:30%;
+	text-align:center;
+}
+#name{
+	display: inline-block;
+  	vertical-align: middle;
+ 	line-height: normal;
+ 	color:white;
+}
+#submitdiv{
+	color:white;
+	background-color:red;
+	height:4%;
+	width:5%;
+	position:relative;
+	left:47.5%;
+	text-align:center;
+	line-height: 4%;
+	margin-top:1%;
+	border-radius:1em;
+}
+#submit{
+	display: inline-block;
+  	vertical-align: middle;
+ 	line-height: normal;
+}
+#infodiv{
+	color:white;
+	height:4%;
+	width:40%;
+	position:relative;
+	left:30%;
+	text-align:center;
+	line-height: 4%;
+	margin-top:1%;
+	border-radius:1em;
+}
+#info{
+	display: inline-block;
+  	vertical-align: middle;
+ 	line-height: normal;
+}
